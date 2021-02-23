@@ -1,0 +1,17 @@
+-----------------------------------------------Truffle commands-----------------------------------------------
+
+truffle init -- Klasor icine kur
+
+truffle compile  -- Compile edip test etmek icin
+
+truffle migrate -- Migrate olusturmak icin
+
+truffle test -- Birkac test icin
+
+ganache-cli -- Ganache agi olusturur.//Baska command prompt actik
+
+compile // Test etmek demek calisiyor mu calismiyor mu diye 
+migrate // Deploy demek oluyor 
+
+
+truffle console
